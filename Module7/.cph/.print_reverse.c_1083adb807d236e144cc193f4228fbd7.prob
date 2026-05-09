@@ -1,0 +1,1 @@
+{"name":"Local: print_reverse","url":"c:\\Users\\azhar\\Desktop\\Phitron\\Module7\\print_reverse.c","tests":[{"id":1776595165392,"input":"5\n1 2 3 4 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\azhar\\Desktop\\Phitron\\Module7\\print_reverse.c","group":"local","local":true}

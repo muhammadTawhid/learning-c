@@ -1,0 +1,1 @@
+{"name":"Local: reversing_array","url":"c:\\Users\\azhar\\Desktop\\Phitron\\Module 9\\reversing_array.c","tests":[{"id":1776949697057,"input":"6\n1 2 3 4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\azhar\\Desktop\\Phitron\\Module 9\\reversing_array.c","group":"local","local":true}

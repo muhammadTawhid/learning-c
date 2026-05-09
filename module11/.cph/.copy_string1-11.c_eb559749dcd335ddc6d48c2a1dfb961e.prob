@@ -1,0 +1,1 @@
+{"name":"Local: copy_string1-11","url":"c:\\Users\\azhar\\Desktop\\Phitron\\module11\\copy_string1-11.c","tests":[{"id":1777129876858,"input":"orangehndsd apple","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\azhar\\Desktop\\Phitron\\module11\\copy_string1-11.c","group":"local","local":true}

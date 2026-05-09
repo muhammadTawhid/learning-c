@@ -1,0 +1,1 @@
+{"name":"Local: string_compare11-8","url":"c:\\Users\\azhar\\Desktop\\Phitron\\module11\\string_compare11-8.c","tests":[{"id":1777146300481,"input":"abddd abc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\azhar\\Desktop\\Phitron\\module11\\string_compare11-8.c","group":"local","local":true}

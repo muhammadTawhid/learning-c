@@ -1,0 +1,1 @@
+{"name":"Local: concat_string11-4","url":"c:\\Users\\azhar\\Desktop\\Phitron\\module11\\concat_string11-4.c","tests":[{"id":1777131856266,"input":"hi bye","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\azhar\\Desktop\\Phitron\\module11\\concat_string11-4.c","group":"local","local":true}
