@@ -1,0 +1,1 @@
+{"name":"Local: 2D_array_input_output","url":"c:\\Users\\azhar\\Desktop\\Phitron\\module 18\\2D_array_input_output.c","tests":[{"id":1778692118624,"input":"3 3\n1 2 3\n4 509 6\n7 8 9\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\azhar\\Desktop\\Phitron\\module 18\\2D_array_input_output.c","group":"local","local":true}
