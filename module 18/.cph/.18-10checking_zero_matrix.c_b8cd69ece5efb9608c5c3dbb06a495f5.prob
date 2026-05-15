@@ -1,0 +1,1 @@
+{"name":"Local: 18-10checking_zero_matrix","url":"c:\\Users\\azhar\\Desktop\\Phitron\\module 18\\18-10checking_zero_matrix.c","tests":[{"id":1778773755749,"input":"2 3\n0 0 0\n0 2 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\azhar\\Desktop\\Phitron\\module 18\\18-10checking_zero_matrix.c","group":"local","local":true}
